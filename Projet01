@@ -1,0 +1,7 @@
+Projet01 : bubbleBeaker
+platform : android
+use of : openGLEs + gesture (put finger ont he sreen make the canon follow it, remove it launch the ball)
+-levels with increasing difficulty.
+-in case of lose, question theuser : restart at start or restart the level.
+-max level ?
+-buy a new phone
